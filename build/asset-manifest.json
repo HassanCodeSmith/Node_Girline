@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a95363e7.css",
+    "main.js": "/static/js/main.e86ab5b1.js",
+    "static/js/496.5b9f9e93.chunk.js": "/static/js/496.5b9f9e93.chunk.js",
+    "static/media/mapImage.png": "/static/media/mapImage.dfc754c7896c0128456a.png",
+    "static/media/Gotham-Book.ttf": "/static/media/Gotham-Book.4c2cf6d6bc07b328e8d0.ttf",
+    "static/media/logoprevious.png": "/static/media/logoprevious.f52b8475f852a17479ed.png",
+    "static/media/Empty Cart.png": "/static/media/Empty Cart.a68b79c5fea4e97e532d.png",
+    "static/media/Gotham-Book.woff": "/static/media/Gotham-Book.e872be4db2fd5c800fd8.woff",
+    "static/media/Gotham-Book.woff2": "/static/media/Gotham-Book.b39f02e9da64e0412f20.woff2",
+    "index.html": "/index.html",
+    "main.a95363e7.css.map": "/static/css/main.a95363e7.css.map",
+    "main.e86ab5b1.js.map": "/static/js/main.e86ab5b1.js.map",
+    "496.5b9f9e93.chunk.js.map": "/static/js/496.5b9f9e93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95363e7.css",
+    "static/js/main.e86ab5b1.js"
+  ]
+}

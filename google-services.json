@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941448151296",
+    "project_id": "girlines-526e6",
+    "storage_bucket": "girlines-526e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941448151296:android:e4c59c2274491a4478b3e5",
+        "android_client_info": {
+          "package_name": "com.example.girlines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941448151296-17rgdrl3395nieb3qa179g2rk9t7p44m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.girlines",
+            "certificate_hash": "90d8308ab5f117088ec57c5d4bf348d20966a6df"
+          }
+        },
+        {
+          "client_id": "941448151296-girlines-526e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FaAiFtQeEBYE8uhWEHqh6vYgXioJalU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941448151296-boeiv56id8agka1aq7qbkunimke3j8li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
